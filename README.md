@@ -4,7 +4,7 @@ The scripts in this repo have been collected and tweaked from various places.
 
 The instructions and scripts have been tested, but there is no guarantee they will work in your situation. Make appropriate backups before using. 
 
-As with all scripts you download from the internet, inspect them and **kiddy scriptor usus cautela**. 
+As with all scripts you download from the internet, always inspect them before running. 
 
 
 ---
